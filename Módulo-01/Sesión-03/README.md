@@ -1,2 +1,2 @@
 
-# Sesión #: Tu Primera App
+# Sesión 03: Tu Primera App
