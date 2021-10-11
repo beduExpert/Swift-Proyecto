@@ -1,2 +1,2 @@
 
-# Sesión #: Estructura básica del lenguaje Swift 
+# Sesión 04: Estructura básica del lenguaje Swift 
