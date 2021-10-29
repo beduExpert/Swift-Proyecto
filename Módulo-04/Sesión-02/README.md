@@ -1,18 +1,18 @@
 
-# Sesión #: Nombre de la sesión
+# Sesión #: Reproductor de audio (Sesión 2)
 
 ## :dart: Objetivos
 
-Agregar los objetivos de las sesión (Mínimo poner tres objetivos y Borrar está linea una vez se hay leido )
+Plasmar los conocimientos adquiridos y actualizar el proyecto final
 
-- Objetivo 1
-- Objetivo 2
-- Objetivo 3
+- Hacer uso de los protocolos y delegados de las tablas
+- Comenzar la estructura MVVM para el proyecto
+- Generar objetos necesarios (DTOs) para el manejo de los archivos necesarios
 
 ## ⚙ Requisitos
 
-+ Agregar los requisitos de la sesión 
-+ Agregar el link de descarga en caso de ser necesario para la sesión (Borrar estás lineas una vez se hayan leido)
++ Haber completado la sesion 1 y 2 
++ <a href"https://github.com/beduExpert/Swift-Avanzado-2021/tree/main/Sesion-02" target="_blank">Sesión 2</a>
 
 
 
