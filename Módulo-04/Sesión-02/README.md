@@ -12,7 +12,7 @@ Plasmar los conocimientos adquiridos y actualizar el proyecto final
 ## ⚙ Requisitos
 
 + Haber completado la sesion 1 y 2 
-+ <a href"https://github.com/beduExpert/Swift-Avanzado-2021/tree/main/Sesion-02" target="_blank">Sesión 2</a>
++ <a href="https://github.com/beduExpert/Swift-Avanzado-2021/tree/main/Sesion-02" target="_blank">Sesión 2</a>
 
 
 
