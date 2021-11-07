@@ -6,12 +6,12 @@
 //
 
 import UIKit
-import SwiftySound
+import AudioPlayer
 
 class AudioPlayerViewController: UIViewController {
 
     var isPlaying = true
-    var mySound: Sound?
+    var mySound: AudioPlayer?
     
     override func motionEnded(_ motion: UIEvent.EventSubtype, with event: UIEvent?) {
         isPlaying = !(isPlaying)
@@ -27,10 +27,12 @@ class AudioPlayerViewController: UIViewController {
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        guard let fileURL = Bundle.main.url(forResource: "bensound-ukulele", withExtension: "mp3") else { return }
-        if let tmpSound = Sound(url: fileURL) {
-            mySound = tmpSound
+        do {
+            mySound = try AudioPlayer(fileName: "bensound-ukulele.mp3")
             mySound?.play()
+        }
+        catch {
+            print ("ocurrió un error \(error.localizedDescription)")
         }
     }
     

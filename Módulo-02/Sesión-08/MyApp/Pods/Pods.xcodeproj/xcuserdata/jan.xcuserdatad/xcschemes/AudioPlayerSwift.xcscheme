@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "AF76419D4650F093FFACB1AD713C1EF1"
-               BuildableName = "SwiftySound.framework"
-               BlueprintName = "SwiftySound"
+               BlueprintIdentifier = "C3C1C3225783F793E1A79A4F3D28F2C4"
+               BuildableName = "AudioPlayer.framework"
+               BlueprintName = "AudioPlayerSwift"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>

@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double SwiftySoundVersionNumber;
-FOUNDATION_EXPORT const unsigned char SwiftySoundVersionString[];
+FOUNDATION_EXPORT double AudioPlayerVersionNumber;
+FOUNDATION_EXPORT const unsigned char AudioPlayerVersionString[];
 
