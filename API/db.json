@@ -1,0 +1,143 @@
+{
+	"songs": [{
+			"song_id": "01",
+			"name": "Wind of Change",
+			"duration": 313.0,
+			"artist": "Scorpions",
+			"genre": "Rock"
+		},
+		{
+			"song_id": "02",
+			"name": "She's Gone",
+			"duration": 280.0,
+			"artist": "Steelheart",
+			"genre": "Rock"
+		},
+		{
+			"song_id": "03",
+			"name": "Don't Cry",
+			"duration": 327.0,
+			"artist": "Guns N' Roses",
+			"genre": "Rock"
+		},
+		{
+			"song_id": "04",
+			"name": "Where are you now",
+			"duration": 137.0,
+			"artist": "Nazareth",
+			"genre": "Rock"
+		},
+		{
+			"song_id": "05",
+			"name": "Have you ever seen the rain",
+			"duration": 231.0,
+			"artist": "CCR",
+			"genre": "Rock"
+		},
+		{
+			"song_id": "06",
+			"name": "Bed of roses",
+			"duration": 174.0,
+			"artist": "Bon Jovi",
+			"genre": "Rock"
+		},
+		{
+			"song_id": "07",
+			"name": "Always somewhere",
+			"duration": 187.0,
+			"artist": "Scorpions",
+			"genre": "Rock"
+		},
+		{
+			"song_id": "08",
+			"name": "Love hurts",
+			"duration": 365.0,
+			"artist": "Nazareth",
+			"genre": "Rock"
+		},
+		{
+			"song_id": "09",
+			"name": "Always",
+			"duration": 211.0,
+			"artist": "Bon Jovi",
+			"genre": "Rock"
+		},
+		{
+			"song_id": "10",
+			"name": "Stairway to heaven",
+			"duration": 317.0,
+			"artist": "Led zeppelin",
+			"genre": "Rock"
+		},
+		{
+			"song_id": "11",
+			"name": "Send me an angel",
+			"duration": "",
+			"artist": "Scorpions",
+			"genre": "Rock"
+		},
+		{
+			"song_id": "12",
+			"name": "With or without you",
+			"duration": 134.0,
+			"artist": "U2",
+			"genre": "Rock"
+		},
+		{
+			"song_id": "13",
+			"name": "Still loving you",
+			"duration": 488.0,
+			"artist": "Scorpions",
+			"genre": "Rock"
+		},
+		{
+			"song_id": "14",
+			"name": "Living on a prayer",
+			"duration": 226.0,
+			"artist": "Bon Jovi",
+			"genre": "Rock"
+		},
+		{
+			"song_id": "15",
+			"name": "I don't wanna miss a thing",
+			"duration": 199.0,
+			"artist": "",
+			"genre": ""
+		},
+		{
+			"song_id": "16",
+			"name": "More than words",
+			"duration": 311.0,
+			"artist": "",
+			"genre": "Rock"
+		},
+		{
+			"song_id": "17",
+			"name": "Temple of the king",
+			"duration": "",
+			"artist": "",
+			"genre": ""
+		},
+		{
+			"song_id": "18",
+			"name": "Never say goodbye",
+			"duration": 198.0,
+			"artist": "Bon Jovi",
+			"genre": "Rock"
+		},
+		{
+			"song_id": "19",
+			"name": "Faithfully",
+			"duration": 228.0,
+			"artist": "",
+			"genre": "Rock"
+		},
+		{
+			"song_id": "20",
+			"name": "Sweel Child O' mine",
+			"duration": "",
+			"artist": "Guns n' roses",
+			"genre": "Rock"
+		}
+	]
+}
