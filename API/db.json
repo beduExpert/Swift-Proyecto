@@ -1,140 +1,140 @@
 {
 	"songs": [{
 			"song_id": "01",
-			"name": "Wind of Change",
+			"title": "Wind of Change",
 			"duration": 313.0,
 			"artist": "Scorpions",
 			"genre": "Rock"
 		},
 		{
 			"song_id": "02",
-			"name": "She's Gone",
+			"title": "She's Gone",
 			"duration": 280.0,
 			"artist": "Steelheart",
 			"genre": "Rock"
 		},
 		{
 			"song_id": "03",
-			"name": "Don't Cry",
+			"title": "Don't Cry",
 			"duration": 327.0,
 			"artist": "Guns N' Roses",
 			"genre": "Rock"
 		},
 		{
 			"song_id": "04",
-			"name": "Where are you now",
+			"title": "Where are you now",
 			"duration": 137.0,
 			"artist": "Nazareth",
 			"genre": "Rock"
 		},
 		{
 			"song_id": "05",
-			"name": "Have you ever seen the rain",
+			"title": "Have you ever seen the rain",
 			"duration": 231.0,
 			"artist": "CCR",
 			"genre": "Rock"
 		},
 		{
 			"song_id": "06",
-			"name": "Bed of roses",
+			"title": "Bed of roses",
 			"duration": 174.0,
 			"artist": "Bon Jovi",
 			"genre": "Rock"
 		},
 		{
 			"song_id": "07",
-			"name": "Always somewhere",
+			"title": "Always somewhere",
 			"duration": 187.0,
 			"artist": "Scorpions",
 			"genre": "Rock"
 		},
 		{
 			"song_id": "08",
-			"name": "Love hurts",
+			"title": "Love hurts",
 			"duration": 365.0,
 			"artist": "Nazareth",
 			"genre": "Rock"
 		},
 		{
 			"song_id": "09",
-			"name": "Always",
+			"title": "Always",
 			"duration": 211.0,
 			"artist": "Bon Jovi",
 			"genre": "Rock"
 		},
 		{
 			"song_id": "10",
-			"name": "Stairway to heaven",
+			"title": "Stairway to heaven",
 			"duration": 317.0,
 			"artist": "Led zeppelin",
 			"genre": "Rock"
 		},
 		{
 			"song_id": "11",
-			"name": "Send me an angel",
+			"title": "Send me an angel",
 			"duration": 0.0,
 			"artist": "Scorpions",
 			"genre": "Rock"
 		},
 		{
 			"song_id": "12",
-			"name": "With or without you",
+			"title": "With or without you",
 			"duration": 134.0,
 			"artist": "U2",
 			"genre": "Rock"
 		},
 		{
 			"song_id": "13",
-			"name": "Still loving you",
+			"title": "Still loving you",
 			"duration": 488.0,
 			"artist": "Scorpions",
 			"genre": "Rock"
 		},
 		{
 			"song_id": "14",
-			"name": "Living on a prayer",
+			"title": "Living on a prayer",
 			"duration": 226.0,
 			"artist": "Bon Jovi",
 			"genre": "Rock"
 		},
 		{
 			"song_id": "15",
-			"name": "I don't wanna miss a thing",
+			"title": "I don't wanna miss a thing",
 			"duration": 199.0,
 			"artist": "",
 			"genre": ""
 		},
 		{
 			"song_id": "16",
-			"name": "More than words",
+			"title": "More than words",
 			"duration": 311.0,
 			"artist": "",
 			"genre": "Rock"
 		},
 		{
 			"song_id": "17",
-			"name": "Temple of the king",
+			"title": "Temple of the king",
 			"duration": 0.0,
 			"artist": "",
 			"genre": ""
 		},
 		{
 			"song_id": "18",
-			"name": "Never say goodbye",
+			"title": "Never say goodbye",
 			"duration": 198.0,
 			"artist": "Bon Jovi",
 			"genre": "Rock"
 		},
 		{
 			"song_id": "19",
-			"name": "Faithfully",
+			"title": "Faithfully",
 			"duration": 228.0,
 			"artist": "",
 			"genre": "Rock"
 		},
 		{
 			"song_id": "20",
-			"name": "Sweel Child O' mine",
+			"title": "Sweel Child O' mine",
 			"duration": 0.0,
 			"artist": "Guns n' roses",
 			"genre": "Rock"
