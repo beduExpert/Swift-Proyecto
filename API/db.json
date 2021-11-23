@@ -72,7 +72,7 @@
 		{
 			"song_id": "11",
 			"name": "Send me an angel",
-			"duration": "",
+			"duration": 0.0,
 			"artist": "Scorpions",
 			"genre": "Rock"
 		},
@@ -114,7 +114,7 @@
 		{
 			"song_id": "17",
 			"name": "Temple of the king",
-			"duration": "",
+			"duration": 0.0,
 			"artist": "",
 			"genre": ""
 		},
@@ -135,7 +135,7 @@
 		{
 			"song_id": "20",
 			"name": "Sweel Child O' mine",
-			"duration": "",
+			"duration": 0.0,
 			"artist": "Guns n' roses",
 			"genre": "Rock"
 		}
