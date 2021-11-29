@@ -1,18 +1,16 @@
 
-# Sesión #: Nombre de la sesión
-
+# Sesión 4: Manejo de descarga en segundo plano
 ## :dart: Objetivos
 
-Agregar los objetivos de las sesión (Mínimo poner tres objetivos y Borrar está linea una vez se hay leido )
+Implementar lo aprendido en la sesión
 
-- Objetivo 1
-- Objetivo 2
-- Objetivo 3
+- Crear un DownloadManager
+- Descargar un archivo demo desde "https://speed.hetzner.de/100MB.bin" que es un archivo de prueba
+- Mostrar en consola el % de descarga
 
 ## ⚙ Requisitos
 
-+ Agregar los requisitos de la sesión 
-+ Agregar el link de descarga en caso de ser necesario para la sesión (Borrar estás lineas una vez se hayan leido)
++ Sesion 1, 2 y 3
 
 
 
