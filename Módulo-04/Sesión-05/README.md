@@ -1,19 +1,15 @@
 
-# Sesión #: Nombre de la sesión
+# Sesión 5: Manejo de animaciones
+
 
 ## :dart: Objetivos
 
-Agregar los objetivos de las sesión (Mínimo poner tres objetivos y Borrar está linea una vez se hay leido )
+- Demostrar lo aprendido en la sesión
+- Implementar animaciones en los elementos UITextField que no cumplan con los requisitos.
+- Implementar animaciones al iniciar el controlador para mostrar los elementos en pantalla
 
-- Objetivo 1
-- Objetivo 2
-- Objetivo 3
 
 ## ⚙ Requisitos
 
-+ Agregar los requisitos de la sesión 
-+ Agregar el link de descarga en caso de ser necesario para la sesión (Borrar estás lineas una vez se hayan leido)
-
-
-
++ Sesion de la 1 a la 4
 

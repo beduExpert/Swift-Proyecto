@@ -1,20 +1,8 @@
-# Nombre de módulo
+# Swift Proyecto
 
 ## :wave: Bienvenid@s
 
-Dar la bienvenida al alumno describiendo el contexto general del módulo. (Borrar está linea una vez se hay leido. 
-
-## :dart: Objetivo
-
-Describir el objetivo general del módulo **Obligatorio**. (Borrar está linea una vez se hay leido) 
-
-## :gear: Requerimientos
-
-Describir los requerimientos en caso de que el módulo lo requiera **Obligatorio**. (Borrar está linea una vez se hay leido) 
-
-## 💻 Proyecto
-
-Describir el proyecto en caso de que el módulo lo requiera **Obligatorio** .  (Borrar está linea una vez se hay leido)
+Este es un espacio que aloja los resultados de cómo se desarrolla la app de reproductor musical de iOS, y tiene el propósito de verificar la estructura y ejecución de la misma.
 
 ## API
 

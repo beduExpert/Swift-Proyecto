@@ -1,18 +1,16 @@
 
-# Sesión #: Nombre de la sesión
+# Sesión 3: Aplicando NotificationCenter
 
 ## :dart: Objetivos
 
-Agregar los objetivos de las sesión (Mínimo poner tres objetivos y Borrar está linea una vez se hay leido )
+Aplicar los conocimientos adquiridos para implementar Observadores con Notification Center
 
-- Objetivo 1
-- Objetivo 2
-- Objetivo 3
+- Agregar el observador al entrar en el listado de las canciones
+- Al no contar con servicio implementar un Timer con intervalo de 30 segundos para agregar una nueva cancion
 
 ## ⚙ Requisitos
 
-+ Agregar los requisitos de la sesión 
-+ Agregar el link de descarga en caso de ser necesario para la sesión (Borrar estás lineas una vez se hayan leido)
++ Haber completado la sesion 1 y 2
 
 
 

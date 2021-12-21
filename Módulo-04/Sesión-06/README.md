@@ -1,18 +1,19 @@
 
-# Sesión #: Nombre de la sesión
+# Sesión #6: Consumo de servicios Rest
+
 
 ## :dart: Objetivos
 
 Agregar los objetivos de las sesión (Mínimo poner tres objetivos y Borrar está linea una vez se hay leido )
 
-- Objetivo 1
-- Objetivo 2
-- Objetivo 3
+- Descarga de Alamofire y creación del RestServiceManager
+- Modificacion del objeto CODABLE
+- Descarga del listado de canciones con un servicio GET.
+
 
 ## ⚙ Requisitos
 
-+ Agregar los requisitos de la sesión 
-+ Agregar el link de descarga en caso de ser necesario para la sesión (Borrar estás lineas una vez se hayan leido)
++ Sesiones de 1 a 5
 
 
 
